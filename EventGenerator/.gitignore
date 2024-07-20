@@ -1,0 +1,5 @@
+target/
+output/
+data/dotfile.dot
+data/out.pdf
+data/out.ps

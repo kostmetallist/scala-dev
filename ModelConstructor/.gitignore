@@ -1,0 +1,5 @@
+target/
+data/out.ps
+data/out.pdf
+data/sample.dot
+data/testmodel*.xml
